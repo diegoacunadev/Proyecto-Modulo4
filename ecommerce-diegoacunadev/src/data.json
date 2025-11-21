@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Iphone 15",
+    "description": "The best smartphone ever",
+    "price": 199.99,
+    "stock": 10,
+    "imageUrl": "https://example.com/iphone15.jpg",
+    "category": "smartphones"
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "description": "Flagship Android smartphone",
+    "price": 189.99,
+    "stock": 15,
+    "imageUrl": "https://example.com/galaxys23.jpg",
+    "category": "smartphones"
+  },
+  {
+    "name": "MacBook Pro 14",
+    "description": "Powerful laptop for professionals",
+    "price": 1299.99,
+    "stock": 5,
+    "imageUrl": "https://example.com/macbookpro14.jpg",
+    "category": "laptops"
+  },
+  {
+    "name": "Dell XPS 13",
+    "description": "Compact and powerful ultrabook",
+    "price": 999.99,
+    "stock": 8,
+    "imageUrl": "https://example.com/dellxps13.jpg",
+    "category": "laptops"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "description": "Noise cancelling wireless headphones",
+    "price": 349.99,
+    "stock": 20,
+    "imageUrl": "https://example.com/sonywh1000xm5.jpg",
+    "category": "audio"
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "description": "Smartwatch with health tracking",
+    "price": 399.99,
+    "stock": 12,
+    "imageUrl": "https://example.com/applewatch9.jpg",
+    "category": "wearables"
+  },
+  {
+    "name": "iPad Air",
+    "description": "Lightweight and powerful tablet",
+    "price": 599.99,
+    "stock": 7,
+    "imageUrl": "https://example.com/ipadair.jpg",
+    "category": "tablets"
+  },
+  {
+    "name": "Amazon Echo Dot",
+    "description": "Smart speaker with Alexa",
+    "price": 49.99,
+    "stock": 25,
+    "imageUrl": "https://example.com/echodot.jpg",
+    "category": "smart home"
+  },
+  {
+    "name": "GoPro HERO11",
+    "description": "Action camera for adventures",
+    "price": 429.99,
+    "stock": 6,
+    "imageUrl": "https://example.com/goprohero11.jpg",
+    "category": "cameras"
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "description": "Advanced wireless mouse",
+    "price": 99.99,
+    "stock": 18,
+    "imageUrl": "https://example.com/mxmaster3s.jpg",
+    "category": "accessories"
+  },
+  {
+    "name": "Kindle Paperwhite",
+    "description": "E-reader with high-resolution display",
+    "price": 139.99,
+    "stock": 14,
+    "imageUrl": "https://example.com/kindlepaperwhite.jpg",
+    "category": "tablets"
+  }
+]
